@@ -31,11 +31,6 @@
       </tags>
   </entry>
   <entry>
-    <title>third</title>
-    <url>/2022/01/22/third/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>secend test article</title>
     <url>/2022/01/22/secend-test-article/</url>
     <content><![CDATA[]]></content>
@@ -43,6 +38,11 @@
   <entry>
     <title>secend test-oriented article</title>
     <url>/2022/01/22/secend-test-oriented-article/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>third</title>
+    <url>/2022/01/22/third/</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
